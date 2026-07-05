@@ -1,98 +1,113 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00F7FF&height=220&section=header&text=PRIYANSHU.EXE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%203rd%20Year%20B.Tech&descAlignY=58&descSize=18"/>
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300"/>
+```ansi
+[0;36mpriyanshu@dev-machine[0m:[0;34m~[0m$ whoami
+[0;32m>[0m Priyanshu Pandey — 3rd Year B.Tech | Building things that break, then fixing them.
 
-<br/>
+[0;36mpriyanshu@dev-machine[0m:[0;34m~[0m$ cat mission.txt
+[0;32m>[0m Turning caffeine and console.logs into full-stack products.
+[0;32m>[0m Currently on: JavaScript → Backend → Full-Stack.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Priyanshu+Pandey+%F0%9F%91%8B;2nd+Year+B.Tech+Student+%F0%9F%8E%93;Aspiring+Software+Engineer+%F0%9F%9A%80;Full-Stack+%7C+JS+%7C+React+%7C+Python" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshu18exe&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/priyanshu18exe?style=for-the-badge&color=00F7FF&labelColor=black)
+[0;36mpriyanshu@dev-machine[0m:[0;34m~[0m$ _
+```
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+## 🎮 Character Sheet
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<table align="center">
+<tr>
+<td valign="top" width="55%">
 
-- 🔭 2nd-year **B.Tech** student on a mission to become a **world-class Software Engineer**
-- 💻 Currently deep-diving into **JavaScript**, moving into **backend development**, and shipping **full-stack projects**
-- 🛠️ Skilled in **HTML, CSS**, and building creative, real-world web experiences
-- 🌱 Believer in **continuous learning** — solving problems with code and adding creativity to everything I build
-- ⚡ Fun fact: I like turning half-finished ideas into shipped projects
-- 📫 Reach me at **priyanshupandey.0018@gmail.com**
+```yaml
+Class:        Full-Stack Developer (in training)
+Level:        3rd Year B.Tech
+Current Arc:  JavaScript ➜ Backend ➜ Full-Stack
+Guild:        Self-Taught Builders
+Trait:        Ships half-broken ideas until they work
+Weakness:     Scope creep on side projects
+Next Boss:    Backend System Design
+```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%">
 
----
+**Stat Points**
 
-## 🛠️ Tech Stack
+```
+HTML/CSS   █████████░  90%
+JavaScript █████████░  85%
+React      ███████░░░  70%
+Backend    █████░░░░░  50%
+Python     █████░░░░░  50%
+C#         ████░░░░░░  40%
+```
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br/>
 
-</div>
+## 🗡️ Active Quest Log
 
----
+> *Update these with your real repos — this is the section recruiters actually read.*
 
-## 📊 GitHub Stats
+| Status | Quest (Project) | Loot (Tech) |
+|:------:|------------------|-------------|
+| 🟢 In Progress | *e.g. Full-stack task manager* | React · Node.js · MongoDB |
+| ✅ Completed | *e.g. Portfolio website v1* | HTML · CSS · JS |
+| 🟡 Planned | *e.g. Backend API for personal project* | Python / Node |
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshu18exe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu18exe&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu18exe&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu18exe&theme=tokyo-night&hide_border=true" width="90%"/>
-</div>
-
-> ⚠️ **Note:** Replace `priyanshu18exe` above with your actual GitHub username in every stats-card URL so the cards pull your real data.
-
----
-
-## 🌐 Connect With Me
+## 🧠 Loadout
 
 <div align="center">
 
-<a href="https://www.instagram.com/priyanshu18.exe/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-<a href="https://www.youtube.com/@Impro_Priyanshu" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-</a>
-<a href="mailto:priyanshupandey.0018@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-<a href="https://www.linkedin.com/in/priyanshu-pandey-192006304" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="42"/>
 
 </div>
 
----
+<br/>
+
+## 📈 Live Stats
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG51Z3lvYW45bGdwOXkxd3hham1xY2c4djVma21wMDAzYWh4azY3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qTqfKkSx3TH4y7kqVI/giphy.gif" height="350"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=150&section=footer"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true"/>
+</div>
+
+> ⚠️ Swap `YOUR_GITHUB_USERNAME` for your real GitHub username or these cards render empty.
+
+<br/>
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.instagram.com/priyanshu18.exe/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32"/></a>
+<a href="https://www.youtube.com/@Impro_Priyanshu" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32"/></a>
+<a href="mailto:priyanshupandey.0018@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32"/></a>
+<a href="https://www.linkedin.com/in/priyanshu-pandey-192006304" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0f2027&height=120&section=footer"/>
