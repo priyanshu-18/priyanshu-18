@@ -10,8 +10,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshu18exe&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/priyanshu18exe?style=for-the-badge&color=00F7FF&labelColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshu-18&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/priyanshu-18?style=for-the-badge&color=00F7FF&labelColor=black)
 
 </div>
 
@@ -54,19 +54,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshu18exe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu18exe&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshu-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-18&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu18exe&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-18&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu18exe&theme=tokyo-night&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-18&theme=tokyo-night&hide_border=true" width="90%"/>
 </div>
-
-> ⚠️ **Note:** Replace `priyanshu18exe` above with your actual GitHub username in every stats-card URL so the cards pull your real data.
 
 ---
 
