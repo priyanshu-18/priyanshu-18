@@ -1,8 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00F7FF&height=230&section=header&text=PRIYANSHU.EXE&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%203rd%20Year%20B.Tech&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=PRIYANSHU.EXE&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%203rd%20Year%20B.Tech&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+caffeine+into+code...;JavaScript+%E2%9E%9C+Backend+%E2%9E%9C+Full-Stack;Building+one+broken+build+at+a+time." alt="Typing SVG" />
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -10,15 +14,12 @@
 [0;35m┌──(priyanshu㉿dev-machine)-[~][0m
 [0;35m└─$[0m whoami
 [0;36m>[0m 3rd Year B.Tech | Full-Stack Developer in the making
-[0;35m└─$[0m cat mission.txt
-[0;36m>[0m Turning caffeine + console.logs into shipped products
-[0;36m>[0m Current arc: JavaScript ➜ Backend ➜ Full-Stack
 [0;35m└─$[0m █
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
+<br/>
 
 ## 🎮 Character Sheet
 
@@ -32,7 +33,6 @@ Level:        3rd Year B.Tech
 Current Arc:  JavaScript ➜ Backend ➜ Full-Stack
 Guild:        Self-Taught Builders
 Trait:        Ships half-broken ideas until they work
-Weakness:     Scope creep on side projects
 Next Boss:    Backend System Design
 ```
 
@@ -54,15 +54,17 @@ C#         ████░░░░░░  40%
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
+  <img width="480" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG51Z3lvYW45bGdwOXkxd3hham1xY2c4djVma21wMDAzYWh4azY3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qTqfKkSx3TH4y7kqVI/giphy.gif"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header"/>
+<br/>
 
 ## 🗡️ Active Quest Log
 
-> *Send me your real repos and I'll fill this in properly — status, tech, and a one-line hook for each.*
+> *Send me your real repos and I'll fill this in — status, tech, and a one-line hook for each.*
 
 | Status | Quest (Project) | Loot (Tech) |
 |:------:|------------------|-------------|
@@ -70,7 +72,7 @@ C#         ████░░░░░░  40%
 | ✅ Completed | *e.g. Portfolio website v1* | HTML · CSS · JS |
 | 🟡 Planned | *e.g. Backend API for personal project* | Python / Node |
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header"/>
+<br/>
 
 ## 🧠 Loadout
 
@@ -89,30 +91,30 @@ C#         ████░░░░░░  40%
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header"/>
+<br/>
 
 ## 📈 Live Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanshu-18&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-18&layout=compact&theme=synthwave&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-18&theme=synthwave&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu-18&theme=algolia&no-frame=true&row=1&column=6"/>
 </div>
 
-> ⚠️ Swap `YOUR_GITHUB_USERNAME` in every URL above for your real GitHub username — otherwise these render blank.
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header"/>
+<br/>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0d3hrMDhzMXVhZjloMGVkdXhienRoZnNheHFqangyY3Q3NWR0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" width="420"/>
+  <img width="420" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0d3hrMDhzMXVhZjloMGVkdXhienRoZnNheHFqangyY3Q3NWR0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif"/>
 </div>
+
+<br/>
 
 ## 🌐 Connect
 
@@ -125,4 +127,4 @@ C#         ████░░░░░░  40%
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:4A00E0,100:8E2DE2&height=160&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
