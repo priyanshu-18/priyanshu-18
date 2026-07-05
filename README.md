@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Priyanshu+Pandey+%F0%9F%91%8B;2nd+Year+B.Tech+Student+%F0%9F%8E%93;Aspiring+Software+Engineer+%F0%9F%9A%80;Full-Stack+%7C+JS+%7C+React+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Priyanshu+Pandey+%F0%9F%91%8B;3rd+Year+B.Tech+Student+%F0%9F%8E%93;Aspiring+Software+Engineer+%F0%9F%9A%80;Full-Stack+%7C+JS+%7C+React+%7C+Python" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-- 🔭 2nd-year **B.Tech** student on a mission to become a **world-class Software Engineer**
+- 🔭 3rd-year **B.Tech** student on a mission to become a **world-class Software Engineer**
 - 💻 Currently deep-diving into **JavaScript**, moving into **backend development**, and shipping **full-stack projects**
 - 🛠️ Skilled in **HTML, CSS**, and building creative, real-world web experiences
 - 🌱 Believer in **continuous learning** — solving problems with code and adding creativity to everything I build
